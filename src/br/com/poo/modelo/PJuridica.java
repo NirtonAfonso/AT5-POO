@@ -13,13 +13,20 @@ public class PJuridica extends Contribuinte {
 
     protected String cnpj;
 
+    
+    //Sting n -> NOME
+    //double r -> RENDA BRUTA
+    //String c -> CADASTRO DE PESSOA FISICA (CPF) OU DE PESSOA JURIDICA (CNPJ)
     public PJuridica(String n, double r, String c) {
+        this.nome = n;
+        this.rendaBrt = r;
+        this.cnpj = c;
 
     }
 
     @Override
     public double calcImposto() {
-        return 0;
+        return rendaBrt * 0.1;
     }
 
 }
