@@ -1,8 +1,9 @@
 package br.com.poo.modelo;
 
 /**
- *
- * @author nirto
+ * @author Nirton Afonso
+ * @RA 201851301411
+ * @Doscente Oberdan Rocha Pinheiro
  */
 public abstract class Contribuinte {
 
