@@ -6,6 +6,5 @@ realizar os calculos do Imposto de Renda de uma coleção de contribuintes, que 
 
 **Aluno: Nirton Afonso**
 
-**RA: 201851301411**
 
 **Doscente: Dr. Oberdan Rocha Pinheiro**
